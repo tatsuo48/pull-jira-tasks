@@ -1,7 +1,7 @@
 {
   "name": "pull-jira-tasks",
   "main": "./lib/pull-jira-tasks",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pull JIRA tasks from the current note",
   "keywords": [],
   "repository": "https://github.com/tatsuo48/pull-jira-tasks",
