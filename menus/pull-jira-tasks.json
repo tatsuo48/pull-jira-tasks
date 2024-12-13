@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Pull JIRA Tasks",
+        "command": "pull-jira-tasks:pull"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "pull-jira-tasks",
+          "submenu": [
+            {
+              "label": "Pull",
+              "command": "pull-jira-tasks:pull"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

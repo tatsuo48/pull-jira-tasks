@@ -1,0 +1,15 @@
+{
+  "name": "pull-jira-tasks",
+  "main": "./lib/pull-jira-tasks",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/pull-jira-tasks",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
