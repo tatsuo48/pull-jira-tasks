@@ -2,9 +2,9 @@
   "name": "pull-jira-tasks",
   "main": "./lib/pull-jira-tasks",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Pull JIRA tasks from the current note",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/pull-jira-tasks",
+  "repository": "https://github.com/tatsuo48/pull-jira-tasks",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
