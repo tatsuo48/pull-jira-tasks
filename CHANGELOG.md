@@ -1,4 +1,4 @@
-## 0.3.0 - Filter ID Support
+## 0.4.0 - Filter ID Support
 * Replace jql_query parameter with filter_id parameter
 * Update API endpoint to use filter-based search
 * Add debug logging for troubleshooting
